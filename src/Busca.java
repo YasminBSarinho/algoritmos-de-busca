@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public interface Busca {
+    public int buscar(int[] array, int item);
 }
